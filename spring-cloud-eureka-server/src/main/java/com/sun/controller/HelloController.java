@@ -1,4 +1,4 @@
-package com.sun.zq;
+package com.sun.controller;
 
 import com.sun.model.Student;
 import lombok.extern.slf4j.Slf4j;
